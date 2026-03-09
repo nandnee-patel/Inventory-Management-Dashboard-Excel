@@ -1,5 +1,4 @@
-# Inventory-Management-Dashboard-Excel
-Interactive Excel Inventory Dashboard using PivotTables and Power Pivot for inventory tracking and analysis.
+
 # 📊 Inventory Management Dashboard (Excel Data Analytics Project)
 
 ## Project Overview
